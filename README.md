@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @philipriordan, Head of Conservation Biology at Marwell Wildlife
+- 👋 Hi, I’m @philipriordan, Director of Conservation at Marwell Wildlife and Visiting Prof. at University of Southampton
 - 👀 I’m interested in wildlife conservation
 - 🌱 I’m currently learning R, Python and Julia
 - 💞️ I’m looking to collaborate on wildlife survey technologies
